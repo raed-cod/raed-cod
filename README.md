@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [YourName](https://www.github.com/yourusername)
+### Hi there 👋, I'm [RAED]
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="visitor badge"/>
@@ -6,7 +6,7 @@
 
 ---
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+
 
 ---
 
