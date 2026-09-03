@@ -1,34 +1,38 @@
-### Hi there 👋, I'm [RAED]
+# Hi there 👋, I'm Raed
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="visitor badge"/>
-</p>
+A Computer Science Student & Backend Software Engineer passionate about building scalable RESTful APIs, robust database architectures, and production-ready applications.
 
 ---
 
+## 👨‍💻 About Me
 
-
----
-
-## 👨‍🎓 About Me
-
-🎓 I’m a Student  
-💻 I specialize in:  
-- C Programming  
-- Python  
-- HTML  
-- CSS  
-
-🚀 I’m passionate about learning new technologies and improving my coding skills.  
-🤝 I love collaborating and contributing to open-source projects.  
-🌱 Currently working on improving my problem-solving and software development skills.
+- 🎓 **Education:** Computer Science Student
+- 💻 **Specialization:** Backend Engineering & API Design
+- 🔭 **Currently Building:** High-performance REST APIs with FastAPI, PostgreSQL, and SQLAlchemy
+- ⚙️ **Core Focus:** Clean Architecture, ORM Optimization, Database Normalization, and Security
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skills
 
-```text
-C        █████████░░░
-Python   ██████████░░
-HTML     █████████░░░
-CSS      ████████░░░░
+### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Databases & ORM**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white)
+
+### **Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **GitHub:** [raed-cod](https://github.com/raed-cod)
